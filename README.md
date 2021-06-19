@@ -1,3 +1,3 @@
 # Game of Life
-Conway's game of life implemented in Python with Tkinter
-![image](./demo.gif)
+![image](./demo.gif)  
+Conway's game of life implemented in Python with Tkinter  
